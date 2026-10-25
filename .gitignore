@@ -1,0 +1,9 @@
+# Ignore compiled C executables
+*
+
+# Keep C source files
+!*/
+!*.c
+
+# Keep Git configuration
+!.gitignore
